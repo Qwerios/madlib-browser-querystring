@@ -2,7 +2,7 @@
   "name": "madlib-browser-querystring",
   "description": "Extracts the browsers querystring (url) and returns it as an object",
   "main": "lib/index.js",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": {
     "name": "Mark Doeswijk",
     "email": "mark.doeswijk@marviq.com",
